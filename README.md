@@ -1,8 +1,7 @@
 # Hello 👋
-## i'm a Software Engineer on the making
+## i'm an undergraduate information technology majoring software engineering
 
 my digital toolbox:
-
 Java
 JavaScript
 HTML
@@ -13,4 +12,4 @@ Lenis
 PrimeVue
 GSAP
 Figma
-...
+

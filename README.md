@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 I design, write, and deploy projects<br>
 
 

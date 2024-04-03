@@ -10,4 +10,4 @@ I design, write, and deploy projects
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ralphenrique) 
 
 ### 🔥 play that dununundununundununun
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217zscfniksqd6fsi4ue76wrq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217zscfniksqd6fsi4ue76wrq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf?si=62d28f180e2f4868)

@@ -9,4 +9,4 @@ I design, write, and deploy projects
 ## ☕ Buy me Coffee pls
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ralphenrique) 
 
-[spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217zscfniksqd6fsi4ue76wrq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217zscfniksqd6fsi4ue76wrq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
